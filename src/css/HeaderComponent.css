@@ -1,0 +1,6 @@
+.header {
+  background-image: linear-gradient(to right, #ff9945, #fc6173);
+  height: 47px;
+  position: absolute;
+  width: 100%;
+}

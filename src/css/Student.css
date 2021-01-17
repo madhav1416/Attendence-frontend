@@ -1,0 +1,26 @@
+.stu {
+  margin-top: 80px;
+  margin-left: 15%;
+}
+.stu-profile {
+  font-weight: 500;
+  font-size: 30px;
+  font-style: inherit;
+  margin-top: 20px;
+}
+.stu-dash {
+  margin-top: 20px;
+  display: flex;
+}
+.stu-dash > img {
+  border: 1px solid rgba(255, 0, 0, 0.5);
+  width: 150px;
+  height: 200px;
+}
+.stu-dash-dash {
+  margin-left: 45px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 20px;
+  padding: 10px;
+  justify-content: space-between;
+}
